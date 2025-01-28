@@ -10,8 +10,17 @@ h1 {
     text-align: center;
 }
 
-ul {
+#recipes {
     background-color: gray;
+}
+
+.recipe {
+    box-sizing: border-box;
+    display: inline-block;
+    width: 30%;
+    margin: 0px 10px;
+    padding: 20px;
+    text-align: center;
 }
 
 a {
