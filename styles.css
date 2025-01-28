@@ -1,0 +1,39 @@
+* {
+    font-family: 'Arial', 'sans-serif';
+    line-height: 32px;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+}
+
+ul {
+    background-color: gray;
+}
+
+a {
+    color: white;
+    font-weight: 600;
+}
+
+#home {
+    color: black;
+}
+
+#image {
+    width: 50%;
+    height: auto;
+}
+
+.sub-heading {
+    background-color: gray;
+    color: white;
+    font-size: 28px;
+}
+
+.content {
+    background-color: lightgray;
+}
